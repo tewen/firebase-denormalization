@@ -1,0 +1,126 @@
+{
+    "cities": [
+        {
+            "name": "Dallas, TX",
+            "population": 600980
+        },
+        {
+            "name": "Fort Worth, TX",
+            "population": 300980
+        },
+        {
+            "name": "Sherman, TX",
+            "population": 100980
+        },
+        {
+            "name": "Tyler, TX",
+            "population": 200980
+        },
+        {
+            "name": "Waco, TX",
+            "population": 400980
+        }
+    ],
+    "affordability" : {
+        "Dallas, TX" : {
+            "city" : "Dallas, TX",
+            "comparison" : 1,
+            "nprValue" : 1.47,
+            "value" : 0
+        },
+        "Fort Worth, TX" : {
+            "city" : "Fort Worth, TX",
+            "comparison" : 0.8639455782312926,
+            "nprValue" : 1.27,
+            "value" : 0.2721088435374148
+        },
+        "Sherman, TX" : {
+            "city" : "Sherman, TX",
+            "comparison" : 0.7210884353741497,
+            "nprValue" : 1.06,
+            "value" : 0.5578231292517006
+        },
+        "Tyler, TX" : {
+            "city" : "Tyler, TX",
+            "comparison" : 0.7891156462585034,
+            "nprValue" : 1.16,
+            "value" : 0.4217687074829932
+        },
+        "Waco, TX" : {
+            "city" : "Waco, TX",
+            "comparison" : 0.7482993197278912,
+            "nprValue" : 1.1,
+            "value" : 0.5034013605442176
+        }
+    },
+    "growth" : {
+        "Dallas, TX" : {
+            "city" : "Dallas, TX",
+            "difference" : -0.020000000000000018,
+            "end" : 1.47,
+            "start" : 1.49
+        },
+        "Fort Worth, TX" : {
+            "city" : "Fort Worth, TX",
+            "difference" : -0.16999999999999993,
+            "end" : 1.27,
+            "start" : 1.44
+        },
+        "Sherman, TX" : {
+            "city" : "Sherman, TX",
+            "difference" : -0.15999999999999992,
+            "end" : 1.06,
+            "start" : 1.22
+        },
+        "Tyler, TX" : {
+            "city" : "Tyler, TX",
+            "difference" : -0.21999999999999997,
+            "end" : 1.16,
+            "start" : 1.38
+        },
+        "Waco, TX" : {
+            "city" : "Waco, TX",
+            "difference" : -0.1499999999999999,
+            "end" : 1.1,
+            "start" : 1.25
+        }
+    },
+    "local" : {
+        "city" : "Dallas, TX",
+        "comparison" : 1,
+        "nprValue" : "1.47",
+        "value" : 0
+    },
+    "volatility" : {
+        "Dallas, TX" : {
+            "city" : "Dallas, TX",
+            "difference" : 0.30000000000000004,
+            "high" : 1.49,
+            "low" : 1.19
+        },
+        "Fort Worth, TX" : {
+            "city" : "Fort Worth, TX",
+            "difference" : 0.3699999999999999,
+            "high" : 1.44,
+            "low" : 1.07
+        },
+        "Sherman, TX" : {
+            "city" : "Sherman, TX",
+            "difference" : 0.45999999999999985,
+            "high" : 1.39,
+            "low" : 0.93
+        },
+        "Tyler, TX" : {
+            "city" : "Tyler, TX",
+            "difference" : 0.42999999999999994,
+            "high" : 1.41,
+            "low" : 0.98
+        },
+        "Waco, TX" : {
+            "city" : "Waco, TX",
+            "difference" : 0.38,
+            "high" : 1.31,
+            "low" : 0.93
+        }
+    }
+}

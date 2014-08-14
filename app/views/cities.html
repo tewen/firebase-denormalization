@@ -1,0 +1,9 @@
+<form ng-controller="CitiesCtrl">
+    <ul>
+        <li ng-repeat="a in affordability"><a ng-click="selectMyCity(a.city)">{{a.city}}, {{a.value}}</a></li>
+    </ul>
+    <div>
+        <p>Name: {{selectedCity.name}}</p>
+        <p>Population: {{selectedCity.population}}</p>
+    </div>
+</form>
